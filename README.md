@@ -1,4 +1,4 @@
-# SQL Data analysis & EDA Projects
+# SQL: Data analysis & EDA Projects
 **Data Analysis on Maven Movies Dataset**:The Maven Movies dataset is a CSV file provided by Odin School. Basic SQL queries and joins were used to analyze the dataset, enabling efficient querying and data retrieval to gain valuable insights.
 
 
